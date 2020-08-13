@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\RealTime3DTechniquesForGames\Shader\Shader 2013 DXMath\Shader\Debug\Shader.exe
+C:\Users\user\Desktop\RealTime3DTechniquesForGames\Shader\Shader 2013 DXMath\Shader\Debug\Shader.pdb

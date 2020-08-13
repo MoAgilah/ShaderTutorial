@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\RealTime3DTechniquesForGames\Shader\Shader 2013 DXMath\Shader\Debug\Shared.pdb
+C:\Users\user\Desktop\RealTime3DTechniquesForGames\Shader\Shader 2013 DXMath\Shared\Debug\Shared.pdb
